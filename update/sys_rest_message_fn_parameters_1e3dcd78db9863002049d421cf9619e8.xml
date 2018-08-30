@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>specific_field</name>
+        <rest_message_function display_value="GetIPInfo">b2bcf030db9863002049d421cf96192d</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>dennis.bui</sys_created_by>
+        <sys_created_on>2018-08-30 18:24:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1e3dcd78db9863002049d421cf9619e8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>specific_field</sys_name>
+        <sys_package display_value="IPLookup" source="x_178217_iplookup">423b7cfcdb5863002049d421cf96196d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="IPLookup">423b7cfcdb5863002049d421cf96196d</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_1e3dcd78db9863002049d421cf9619e8</sys_update_name>
+        <sys_updated_by>dennis.bui</sys_updated_by>
+        <sys_updated_on>2018-08-30 18:26:59</sys_updated_on>
+        <type>string</type>
+        <value>geo</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
